@@ -24,7 +24,7 @@ This script creates a simple Telegram bot using Python's `telegram.ext` module. 
 1. Obtain a bot token from the @BotFather on Telegram.
 2. Replace `'YOUR_BOT_TOKEN'` in the script with your actual bot token.
 3. Set the `TARGET_CHAT_ID` to the desired chat ID where messages should be forwarded.
-4. Do not forget to give bot access to massage it @Botfather.
+4. Do not forget to give bot access to massage in @Botfather.
 
 ## Usage
 1. Run the script:
